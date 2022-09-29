@@ -13,5 +13,5 @@
        version: "{{ ArtifactVersion }}"
        username: "{{ username }}"
        password: "{{ password }}"
-       dest: /opt/apache-tomcat-9.0.65/webapps/
+       dest: /opt/apache-tomcat-9.0.65/webapps
        
